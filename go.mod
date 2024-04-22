@@ -6,7 +6,7 @@ require (
 	github.com/caddyserver/cache-handler v0.12.0
 	github.com/caddyserver/caddy/v2 v2.7.6
 	github.com/digilolnet/caddy-bunny-ip v0.0.0-20231130010043-2e5e90ee8867
-	github.com/jonaharagon/caddy-umami v0.8.1
+	github.com/jonaharagon/caddy-umami v0.9.0
 )
 
 require (
