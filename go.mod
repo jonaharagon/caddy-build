@@ -3,6 +3,9 @@ module caddy
 go 1.22.1
 
 require (
+	github.com/caddy-dns/bunny v0.1.0
+	github.com/caddy-dns/cloudflare v0.0.0-20240703190432-89f16b99c18e
+	github.com/caddy-dns/powerdns v1.0.1
 	github.com/caddyserver/caddy/v2 v2.8.4
 	github.com/digilolnet/caddy-bunny-ip v0.0.0-20231130010043-2e5e90ee8867
 	github.com/jonaharagon/caddy-umami v0.9.0
@@ -65,7 +68,10 @@ require (
 	github.com/jackc/puddle/v2 v2.2.1 // indirect
 	github.com/klauspost/compress v1.17.9 // indirect
 	github.com/klauspost/cpuid/v2 v2.2.8 // indirect
+	github.com/libdns/bunny v0.1.0 // indirect
+	github.com/libdns/cloudflare v0.1.2-0.20240604123710-0549667a10ab // indirect
 	github.com/libdns/libdns v0.2.2 // indirect
+	github.com/libdns/powerdns v0.1.3 // indirect
 	github.com/manifoldco/promptui v0.9.0 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
@@ -75,6 +81,7 @@ require (
 	github.com/mitchellh/copystructure v1.2.0 // indirect
 	github.com/mitchellh/go-ps v1.0.0 // indirect
 	github.com/mitchellh/reflectwalk v1.0.2 // indirect
+	github.com/mittwald/go-powerdns v0.6.6 // indirect
 	github.com/munnerz/goautoneg v0.0.0-20191010083416-a7dc8b61c822 // indirect
 	github.com/onsi/ginkgo/v2 v2.19.1 // indirect
 	github.com/pires/go-proxyproto v0.7.0 // indirect
