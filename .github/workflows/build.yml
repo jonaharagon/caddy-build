@@ -33,7 +33,7 @@ jobs:
       - name: Install Go
         uses: actions/setup-go@v5
         with:
-          go-version: ${{ inputs.go || '~1.23.3' }}
+          go-version: ${{ inputs.go || '~1.23.5' }}
 
       - name: Build Caddy
         run: |
