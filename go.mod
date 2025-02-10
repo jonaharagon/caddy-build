@@ -5,7 +5,7 @@ go 1.22.3
 toolchain go1.23.5
 
 require (
-	github.com/caddy-dns/bunny v0.1.0
+	github.com/caddy-dns/bunny v1.1.2
 	github.com/caddy-dns/cloudflare v0.0.0-20240703190432-89f16b99c18e
 	github.com/caddy-dns/powerdns v1.0.1
 	github.com/caddyserver/caddy/v2 v2.9.1
@@ -71,7 +71,7 @@ require (
 	github.com/jackc/puddle/v2 v2.2.1 // indirect
 	github.com/klauspost/compress v1.17.11 // indirect
 	github.com/klauspost/cpuid/v2 v2.2.9 // indirect
-	github.com/libdns/bunny v0.1.0 // indirect
+	github.com/libdns/bunny v1.3.1 // indirect
 	github.com/libdns/cloudflare v0.1.2-0.20240604123710-0549667a10ab // indirect
 	github.com/libdns/libdns v0.2.2 // indirect
 	github.com/libdns/powerdns v0.1.3 // indirect
@@ -141,14 +141,14 @@ require (
 	go.uber.org/zap/exp v0.3.0 // indirect
 	go4.org/intern v0.0.0-20230525184215-6c62f75575cb // indirect
 	go4.org/unsafe/assume-no-moving-gc v0.0.0-20231121144256-b99613f794b6 // indirect
-	golang.org/x/crypto v0.31.0 // indirect
+	golang.org/x/crypto v0.32.0 // indirect
 	golang.org/x/crypto/x509roots/fallback v0.0.0-20241104001025-71ed71b4faf9 // indirect
 	golang.org/x/exp v0.0.0-20240719175910-8a7402abbf56 // indirect
 	golang.org/x/mod v0.19.0 // indirect
-	golang.org/x/net v0.33.0 // indirect
+	golang.org/x/net v0.34.0 // indirect
 	golang.org/x/sync v0.10.0 // indirect
-	golang.org/x/sys v0.28.0 // indirect
-	golang.org/x/term v0.27.0 // indirect
+	golang.org/x/sys v0.29.0 // indirect
+	golang.org/x/term v0.28.0 // indirect
 	golang.org/x/text v0.21.0 // indirect
 	golang.org/x/time v0.7.0 // indirect
 	golang.org/x/tools v0.23.0 // indirect
