@@ -16,7 +16,7 @@ jobs:
       matrix:
         goos: [linux, darwin, windows]
         goarch: [amd64, arm64]
-        go: [~1.23.5]
+        go: [~1.24.1]
     uses: ./.github/workflows/build.yml
     with:
       goos: ${{ matrix.goos }}
