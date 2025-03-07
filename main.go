@@ -9,6 +9,7 @@ import (
 	_ "github.com/caddyserver/caddy/v2/modules/standard"
 	_ "github.com/digilolnet/caddy-bunny-ip"
 	_ "github.com/jonaharagon/caddy-umami"
+	_ "github.com/ss098/certmagic-s3"
 )
 
 func main() {
