@@ -8,7 +8,7 @@ require (
 	github.com/caddy-dns/bunny v1.1.3
 	github.com/caddy-dns/cloudflare v0.0.0-20250228175314-1fb64108d4de
 	github.com/caddy-dns/powerdns v1.0.1
-	github.com/caddyserver/caddy/v2 v2.10.0-beta.1
+	github.com/caddyserver/caddy/v2 v2.10.0-beta.2
 	github.com/digilolnet/caddy-bunny-ip v0.0.0-20250118080727-ef607b8e1644
 	github.com/jonaharagon/caddy-umami v0.10.0
 	github.com/ss098/certmagic-s3 v0.0.0-20240919074713-f227064b6744

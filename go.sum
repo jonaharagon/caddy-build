@@ -286,8 +286,8 @@ github.com/caddy-dns/powerdns v1.0.1 h1:9ONpZ2D8Q2oYHmeeTIy61IENjd2TtZr3r5nGxuRR
 github.com/caddy-dns/powerdns v1.0.1/go.mod h1:3maagiPk3mSChfzQEWlV05yMgePnxRZ7XVlfy5OfEHU=
 github.com/caddyserver/caddy/v2 v2.4.1/go.mod h1:pVJidKm47Cc5VDUrd2VQPSp/d1DzNj2mjg4FQouWEJM=
 github.com/caddyserver/caddy/v2 v2.5.1/go.mod h1:E+cb3E3jNt3MgAsObwNNkVEIUzriTlyVktcW4NYCD3E=
-github.com/caddyserver/caddy/v2 v2.10.0-beta.1 h1:zo27fxsRBWQcFhEyddbCgcLngMZCi0lTKcA4gm926JQ=
-github.com/caddyserver/caddy/v2 v2.10.0-beta.1/go.mod h1:hrbfPIZT6lkZ1PCtGlfG/JPCkOYDLpi5KkQDWfhQP/U=
+github.com/caddyserver/caddy/v2 v2.10.0-beta.2 h1:A8rL1U0ulZ27at8OIQrpIKcqPU+uFibnEDExblRa94c=
+github.com/caddyserver/caddy/v2 v2.10.0-beta.2/go.mod h1:hrbfPIZT6lkZ1PCtGlfG/JPCkOYDLpi5KkQDWfhQP/U=
 github.com/caddyserver/certmagic v0.13.1/go.mod h1:+zhQtEgLOyXRA/KRduHXNhGGdTeqRM4ePj8eBGD/2CQ=
 github.com/caddyserver/certmagic v0.16.1/go.mod h1:jKQ5n+ViHAr6DbPwEGLTSM2vDwTO6EvCKBblBRUvvuQ=
 github.com/caddyserver/certmagic v0.22.0 h1:hi2skv2jouUw9uQUEyYSTTmqPZPHgf61dOANSIVCLOw=
