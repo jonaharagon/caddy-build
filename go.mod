@@ -2,13 +2,11 @@ module caddy
 
 go 1.24
 
-toolchain go1.24.1
-
 require (
 	github.com/caddy-dns/bunny v1.1.3
 	github.com/caddy-dns/cloudflare v0.0.0-20250228175314-1fb64108d4de
 	github.com/caddy-dns/powerdns v1.0.1
-	github.com/caddyserver/caddy/v2 v2.10.0-beta.2
+	github.com/caddyserver/caddy/v2 v2.10.0-beta.4
 	github.com/digilolnet/caddy-bunny-ip v0.0.0-20250118080727-ef607b8e1644
 	github.com/jonaharagon/caddy-umami v0.10.0
 	github.com/ss098/certmagic-s3 v0.0.0-20240919074713-f227064b6744
@@ -30,7 +28,7 @@ require (
 	github.com/antlr4-go/antlr/v4 v4.13.0 // indirect
 	github.com/aryann/difflib v0.0.0-20210328193216-ff5ff6dc229b // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
-	github.com/caddyserver/certmagic v0.22.0 // indirect
+	github.com/caddyserver/certmagic v0.22.2 // indirect
 	github.com/caddyserver/zerossl v0.1.3 // indirect
 	github.com/cenkalti/backoff/v4 v4.3.0 // indirect
 	github.com/cespare/xxhash v1.1.0 // indirect
@@ -88,7 +86,7 @@ require (
 	github.com/mattn/go-colorable v0.1.13 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
 	github.com/mgutz/ansi v0.0.0-20200706080929-d51e80ef957d // indirect
-	github.com/mholt/acmez/v3 v3.1.0 // indirect
+	github.com/mholt/acmez/v3 v3.1.1 // indirect
 	github.com/miekg/dns v1.1.63 // indirect
 	github.com/minio/md5-simd v1.1.0 // indirect
 	github.com/minio/minio-go/v7 v7.0.27 // indirect
@@ -109,7 +107,7 @@ require (
 	github.com/prometheus/common v0.48.0 // indirect
 	github.com/prometheus/procfs v0.12.0 // indirect
 	github.com/quic-go/qpack v0.5.1 // indirect
-	github.com/quic-go/quic-go v0.50.0 // indirect
+	github.com/quic-go/quic-go v0.50.1 // indirect
 	github.com/rs/xid v1.5.0 // indirect
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
 	github.com/shopspring/decimal v1.4.0 // indirect
