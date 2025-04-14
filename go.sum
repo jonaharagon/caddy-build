@@ -280,8 +280,8 @@ github.com/buger/jsonparser v0.0.0-20181115193947-bf1c66bbce23/go.mod h1:bbYlZJ7
 github.com/caarlos0/ctrlc v1.0.0/go.mod h1:CdXpj4rmq0q/1Eb44M9zi2nKB0QraNKuRGYGrrHhcQw=
 github.com/caddy-dns/bunny v1.1.3 h1:71jXNTgcwq6KvBLhwB7CCM6d93HFzmuijOrJ6R/O7E0=
 github.com/caddy-dns/bunny v1.1.3/go.mod h1:D15xbkbNDXCLZWvG49/DeVNwzfp57a6ygRKxliWnA4E=
-github.com/caddy-dns/cloudflare v0.0.0-20250228175314-1fb64108d4de h1:F7OQ7AtH6X3gmsHU4dhVsoheMuDe4jNUp2R9paAxDgw=
-github.com/caddy-dns/cloudflare v0.0.0-20250228175314-1fb64108d4de/go.mod h1:9Wfv+TILWL7RIQigpD+2kFwzTzYjiye6hUDxnPKW6N8=
+github.com/caddy-dns/cloudflare v0.1.0 h1:nFNzf8REvIC5DMK+DgLQAunbBT5sVcsdYYQIz+2tR+A=
+github.com/caddy-dns/cloudflare v0.1.0/go.mod h1:9Wfv+TILWL7RIQigpD+2kFwzTzYjiye6hUDxnPKW6N8=
 github.com/caddy-dns/powerdns v1.0.1 h1:9ONpZ2D8Q2oYHmeeTIy61IENjd2TtZr3r5nGxuRR/QA=
 github.com/caddy-dns/powerdns v1.0.1/go.mod h1:3maagiPk3mSChfzQEWlV05yMgePnxRZ7XVlfy5OfEHU=
 github.com/caddyserver/caddy/v2 v2.4.1/go.mod h1:pVJidKm47Cc5VDUrd2VQPSp/d1DzNj2mjg4FQouWEJM=
